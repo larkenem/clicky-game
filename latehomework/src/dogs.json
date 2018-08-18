@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/356378/pexels-photo-356378.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 2,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/8700/wall-animal-dog-pet.jpg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 3,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/551628/pexels-photo-551628.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 4,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/160846/french-bulldog-summer-smile-joy-160846.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 5,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/733416/pexels-photo-733416.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 6,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/374898/pexels-photo-374898.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 7,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/879788/pexels-photo-879788.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 8,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/805295/pexels-photo-805295.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 9,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/1189673/pexels-photo-1189673.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 10,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/710927/pexels-photo-710927.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 11,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/220974/pexels-photo-220974.jpeg?auto=compress&cs=tinysrgb&h=350"
+    },
+    {
+      "id": 12,
+      "Clicked": false,
+      "image": "https://images.pexels.com/photos/451854/dog-animal-continental-bulldog-pet-451854.jpeg?auto=compress&cs=tinysrgb&h=350"
+    }
+]
